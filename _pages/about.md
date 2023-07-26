@@ -16,7 +16,7 @@ in Artificial Intelligence from Paris Descartes University (now Paris Cité).
 During these studies, I did two internships: 
 one at ISIR/CNRS with Catherine Pelachaud and Beatrice Biancardi on Multimodal Human-Computer Interaction,
 and one at Télécom Paris with Laurence Likforman-Sulem on Parkinson's Disease detection based on handwriting. 
-See [my CV](./CV.pdf) for further details.
+See [my CV](/files/CV.pdf) for further details.
 
 I'm broadly interested in Natural Language Processing and Information Retrieval, as well as Machine Learning when applied to these domains.
 During my PhD, I've focused on:

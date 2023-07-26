@@ -22,4 +22,5 @@ I'm broadly interested in Natural Language Processing and Information Retrieval,
 During my PhD, I've focused on:
 - data collection and annotation / evaluation of Question Answering systems
 - multimodal fusion, representation, and retrieval / how do modalities interact
+
 In the context of Knowledge-based Visual Question Answering about Named Entities.

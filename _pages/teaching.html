@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p> During my PhD, I was Teacher Assistant at Paris-Saclay University and Polytech Paris-Saclay. </p>
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}

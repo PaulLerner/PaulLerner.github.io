@@ -1,9 +1,9 @@
 ---
-title: "Teacher Assistant"
+title: "Teacher Assistant (2020-2023)"
 collection: teaching
 type: "Undergraduate course"
 venue: "Polytech Paris-Saclay"
-date: "2020-2023"
+date: 2020-10-01
 ---
 
 I was Teacher Assistant of Frédéric Voisin for introduction to imperative programming in C++ to students in preparatory classes.

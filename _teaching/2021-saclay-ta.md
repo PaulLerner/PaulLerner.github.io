@@ -1,8 +1,8 @@
 ---
-title: "Teacher Assistant"
+title: "Teacher Assistant (2021-2023)"
 collection: teaching
 venue: "Paris-Saclay University"
-date: "2021-2023"
+date: 2021-10-01
 ---
 
 I was Teacher Assistant of François Landes and Kim Gerdes for an Introduction to Machine Learning and Natural Language Processing 

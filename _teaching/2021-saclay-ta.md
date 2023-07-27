@@ -1,6 +1,7 @@
 ---
 title: "Teacher Assistant (2021-2023)"
 collection: teaching
+type: "Undergraduate course"
 venue: "Paris-Saclay University"
 date: 2021-10-01
 ---

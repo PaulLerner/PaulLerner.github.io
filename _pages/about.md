@@ -23,7 +23,8 @@ and one at Télécom Paris with [Laurence Likforman-Sulem](https://perso.telecom
 on Parkinson's Disease detection based on handwriting. 
 See [my resume](/files/CV.pdf) for further details.
 
-I'm broadly interested in Natural Language Processing and Information Retrieval, as well as Machine Learning when applied to these domains.
+I'm broadly interested in Natural Language Processing and Information Retrieval, 
+as well as Machine Learning when applied to these fields.
 During my PhD, I've focused on:
 - data collection and annotation / evaluation of Question Answering systems
 - multimodal fusion, representation, and retrieval / how do modalities interact
@@ -32,4 +33,4 @@ In the context of Knowledge-based Visual Question Answering about Named Entities
 
 If you're interested in my research, you can find a [list of my publications here](/publications).
 
-During my PhD, I also was [Teacher Assistant at Paris-Saclay University and Polytech Paris-Saclay](/teaching).
+During my PhD, I also was [Teacher Assistant](/teaching) at Paris-Saclay University and Polytech Paris-Saclay.

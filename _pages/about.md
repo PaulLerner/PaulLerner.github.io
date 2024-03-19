@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently finishing a PhD about Multimodal Information Retrieval at Paris-Saclay University (LISN/CNRS lab). 
-My PhD advisors are [Olivier Ferret](http://oferret.free.fr/) (CEA List) 
+I'm a postdoc researcher at Sorbonne Université, CNRS, ISIR. I got my PhD in Multimodal Information Retrieval at Paris-Saclay University (LISN/CNRS lab). 
+I'm currently working on Machine Translation with [François Yvon](https://fyvo.github.io/).
+My PhD advisors were [Olivier Ferret](http://oferret.free.fr/) (CEA List) 
 and [Camille Guinaudeau](https://sites.google.com/view/camille-guinaudeau/accueil) (LISN). 
-Before that, I already worked with Camille but also with [Hervé Bredin](https://herve.niderb.fr/fastpages/),
+Before my PhD, I already worked with Camille but also with [Hervé Bredin](https://herve.niderb.fr/fastpages/),
 about Multimodal Speaker Diarization, as a research engineer.
 
 I have an engineering degree in Computer Science from ESILV and a master's degree
@@ -21,16 +22,12 @@ one at ISIR/CNRS with [Catherine Pelachaud](https://www.isir.upmc.fr/personnel/p
 and [Beatrice Biancardi](https://sites.google.com/view/beatricebiancardi) on Multimodal Human-Computer Interaction,
 and one at Télécom Paris with [Laurence Likforman-Sulem](https://perso.telecom-paristech.fr/lauli/)
 on Parkinson's Disease detection based on handwriting. 
-See [my resume](/files/CV.pdf) for further details.
+See [my resume](/files/CV_FR.pdf) (in French) for further details ([my English resume](/files/CV.pdf) is slightly outdated).
 
-I'm broadly interested in Natural Language Processing and Information Retrieval, 
-as well as Machine Learning when applied to these fields.
-During my PhD, I've focused on:
-- data collection and annotation / evaluation of Question Answering systems
-- multimodal fusion, representation, and retrieval / how do modalities interact
-
-In the context of Knowledge-based Visual Question Answering about Named Entities.
+I'm interested in Multimodal and Multilingual Natural Language Processing (and Information Retrieval), 
+with a focus on resources and evaluation.
 
 If you're interested in my research, you can find a [list of my publications here](/publications).
 
-During my PhD, I also was [Teacher Assistant](/teaching) at Paris-Saclay University and Polytech Paris-Saclay.
+I'm also currently [Teacher Assistant](/teaching) at ENSAE (IP Paris).
+During my PhD, I was Teacher Assistant at Paris-Saclay University and Polytech Paris-Saclay.

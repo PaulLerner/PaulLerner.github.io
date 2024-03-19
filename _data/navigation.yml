@@ -15,8 +15,12 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "Resume"
+  - title: "Resume (EN)"
     url: /files/CV.pdf
+
+  # TODO: fully bilingual website
+  - title: "Resume (FR)"
+    url: /files/CV_FR.pdf
     
  # - title: "Guide"
  #   url: /markdown/

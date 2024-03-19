@@ -24,7 +24,7 @@ Answering](https://arxiv.org/abs/2401.05736)"
   [**SIGIR 2022**](https://dl.acm.org/doi/abs/10.1145/3477495.3531753) (45th International ACM SIGIR Conference on Research and Development in Information Retrieval)
 
 - **P. Lerner**, O. Ferret, C. Guinaudeau, H. Le Borgne, R. Besançon, J. G. Moreno, and J. Lovón Melgarejo, 
-  “[Un jeu de données pour répondre à des questions visuelles à propos d’entités nommées en utilisant des bases de connaissances](https://aclanthology.org/2022.jeptalnrecital-taln.43/)”, 
+  “[Un jeu de données pour répondre à des questions visuelles à propos d’entités nommées en utilisant des bases de connaissances](https://aclanthology.org/2022.jeptalnrecital-taln.43/)”   
   **TALN 2022** (Conférence sur le Traitement Automatique des Langues Naturelles)
 
 - **P. Lerner**, J. Bergoënd, C. Guinaudeau, H. Bredin, B. Maurice, S. Lefevre, M. Bouteiller, A. Berhe, L. Galmant, R. Yin, and C. Barras, 

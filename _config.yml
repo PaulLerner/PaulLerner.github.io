@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Paul Lerner"
 title_separator          : "-"
 name                     : &name "Paul Lerner"
-description              : &description "PhD Student at LISN, CNRS, Université Paris-Saclay"
+description              : &description "Postdoc researcher at Sorbonne Université, CNRS, ISIR"
 url                      : https://paullerner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Paul Lerner"
   avatar           : "profile.JPEG"
-  bio              : "PhD Student at LISN, CNRS, Université Paris-Saclay"
+  bio              : "Postdoc researcher at Sorbonne Université, CNRS, ISIR"
   location         : "Paris, France"
   employer         :
   pubmed           : 

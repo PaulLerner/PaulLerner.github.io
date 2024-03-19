@@ -3,7 +3,7 @@ title: "Teacher Assistant (2023-2024)"
 collection: teaching
 type: "Master 2"
 venue: "ENSAE (IP Paris)"
-date: 2020-10-01
+date: 2023-10-01
 ---
 
 I'm TA at ENSAE in the classes [Deep Learning : Models and Optimization](https://kscaman.github.io/teaching/2023_ENSAE_DL.html)

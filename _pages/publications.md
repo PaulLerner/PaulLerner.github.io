@@ -7,7 +7,7 @@ author_profile: true
 
 - **P. Lerner**, O. Ferret et C. Guinaudeau, "[Cross-modal Retrieval for Knowledge-based Visual Question
 Answering](https://arxiv.org/abs/2401.05736)"  
-**ECIR 2024** (Advances in Information Retrieval)
+[**ECIR 2024**](https://link.springer.com/chapter/10.1007/978-3-031-56027-9_26) (Advances in Information Retrieval)
 
 - **P. Lerner**, O. Ferret, and C. Guinaudeau. "[Recherche cross-modale pour répondre à des questions visuelles](https://hal.science/hal-04131549)"   
   [**CORIA 2023**](https://aclanthology.org/2023.jeptalnrecital-coria.5/) (18e Conférence en Recherche d'Information et Applications)

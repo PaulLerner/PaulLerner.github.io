@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **P. Lerner**, O. Ferret et C. Guinaudeau, "[Cross-modal Retrieval for Knowledge-based Visual Question
+- **P. Lerner** and C. Grouin. "[INCLURE: a Dataset and Toolkit for Inclusive French Translation](https://hal.science/hal-04531938)"  
+ **BUCC @ LREC 2024**
+- **P. Lerner**, O. Ferret and C. Guinaudeau, "[Cross-modal Retrieval for Knowledge-based Visual Question
 Answering](https://arxiv.org/abs/2401.05736)"  
 [**ECIR 2024**](https://link.springer.com/chapter/10.1007/978-3-031-56027-9_26) (Advances in Information Retrieval)
 

@@ -22,7 +22,7 @@ one at ISIR/CNRS with [Catherine Pelachaud](https://www.isir.upmc.fr/personnel/p
 and [Beatrice Biancardi](https://sites.google.com/view/beatricebiancardi) on Multimodal Human-Computer Interaction,
 and one at Télécom Paris with [Laurence Likforman-Sulem](https://perso.telecom-paristech.fr/lauli/)
 on Parkinson's Disease detection based on handwriting. 
-See [my resume](/files/CV_FR.pdf) (in French) for further details ([my English resume](/files/CV.pdf) is slightly outdated).
+See [my resume](/files/lerner_CV_FR.pdf) (in French) for further details.
 
 I'm interested in Multimodal and Multilingual Natural Language Processing (and Information Retrieval), 
 with a focus on resources and evaluation.

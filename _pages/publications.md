@@ -7,19 +7,20 @@ author_profile: true
 
 - **P. Lerner** and C. Grouin. "[INCLURE: a Dataset and Toolkit for Inclusive French Translation](https://hal.science/hal-04531938)"  
  **BUCC @ LREC 2024**
+
 - **P. Lerner**, O. Ferret and C. Guinaudeau, "[Cross-modal Retrieval for Knowledge-based Visual Question
 Answering](https://arxiv.org/abs/2401.05736)"  
 [**ECIR 2024**](https://link.springer.com/chapter/10.1007/978-3-031-56027-9_26) (Advances in Information Retrieval)
 
-- **P. Lerner**, O. Ferret, and C. Guinaudeau. "[Recherche cross-modale pour répondre à des questions visuelles](https://hal.science/hal-04131549)"   
-  [**CORIA 2023**](https://aclanthology.org/2023.jeptalnrecital-coria.5/) (18e Conférence en Recherche d'Information et Applications)
+- **P. Lerner**, O. Ferret, and C. Guinaudeau. "[Recherche cross-modale pour répondre à des questions visuelles](https://aclanthology.org/2023.jeptalnrecital-coria.5)"   
+  **CORIA 2023** (18e Conférence en Recherche d'Information et Applications)
 
 - **P. Lerner**, O. Ferret, and C. Guinaudeau, "[Multimodal Inverse Cloze Task for Knowledge-Based Visual Question Answering](https://hal.science/hal-03933089)"   
   [**ECIR 2023**](https://link.springer.com/chapter/10.1007/978-3-031-28244-7_36) (Advances in Information Retrieval)
 
 - **P. Lerner**, S. Messoud, O. Ferret, C. Guinaudeau, H. Le Borgne, R. Besançon, J. G. Moreno, and J. Lovón Melgarejo, 
-  “[Un jeu de données pour répondre à des questions visuelles à propos d’entités nommées](https://hal.science/hal-04175505/)”  
-  [**Revue TAL 2023**](https://www.atala.org/content/tal_63_2_1) (Traitement Automatique des Langues, vol. 63, no. 2)
+  “[Un jeu de données pour répondre à des questions visuelles à propos d’entités nommées](https://aclanthology.org/2022.tal-2.0/)”  
+  **Revue TAL 2022** (Traitement Automatique des Langues, vol. 63, no. 2)
 
 - **P. Lerner**, O. Ferret, C. Guinaudeau, H. Le Borgne, R. Besançon, J. G. Moreno, and J. Lovón Melgarejo, 
   “[ViQuAE, a Dataset for Knowledge-based Visual Question Answering about Named Entities](https://hal.science/hal-03650618/)”  

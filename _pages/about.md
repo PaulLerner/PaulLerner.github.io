@@ -29,5 +29,5 @@ with a focus on resources and evaluation.
 
 If you're interested in my research, you can find a [list of my publications here](/publications).
 
-I'm also currently [Teacher Assistant](/teaching) at ENSAE (IP Paris).
+I'm also currently [Teacher]](/teaching) at Aivancity and Teacher Assistant at ENSAE (IP Paris).
 During my PhD, I was Teacher Assistant at Paris-Saclay University and Polytech Paris-Saclay.

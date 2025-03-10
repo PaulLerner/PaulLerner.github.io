@@ -57,8 +57,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter "_lerner_paul"
 facebook:
   username               :
   app_id                 :

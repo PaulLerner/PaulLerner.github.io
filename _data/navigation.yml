@@ -15,9 +15,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
-# TODO update EN resume
-#  - title: "Resume (EN)"
-#    url: /files/CV.pdf
+ - title: "Resume (EN)"
+    url: /files/lerner_CV_EN.pdf
 
   # TODO: fully bilingual website
   - title: "Resume (FR)"

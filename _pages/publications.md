@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **P. Lerner** and F. Yvon. "[Towards the Machine Translation of Scientific Neologisms](https://hal.science/hal-04835653)"  
+- **P. Lerner** and F. Yvon. "[Towards the Machine Translation of Scientific Neologisms](https://aclanthology.org/2025.coling-main.63)"  
   **COLING 2025**
 
-- **P. Lerner** and F. Yvon. "[Unlike “Likely”, “Unlike” is Unlikely: BPE-based Segmentation hurts Morphological Derivations in LLMs](https://hal.science/hal-04831106)"  
+- **P. Lerner** and F. Yvon. "[Unlike “Likely”, “Unlike” is Unlikely: BPE-based Segmentation hurts Morphological Derivations in LLMs](https://aclanthology.org/2025.coling-main.348)"  
   **COLING 2025**
 
 - **P. Lerner** and F. Yvon. "[Vers la traduction automatique des néologismes scientifiques](https://aclanthology.org/2024.jeptalnrecital-taln.17/)"  

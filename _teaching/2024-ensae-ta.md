@@ -1,5 +1,5 @@
 ---
-title: "Teacher Assistant (2023-2024)"
+title: "Teacher Assistant (2023-2025)"
 collection: teaching
 type: "Master 2"
 venue: "ENSAE (IP Paris)"

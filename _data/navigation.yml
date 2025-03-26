@@ -15,7 +15,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
- - title: "Resume (EN)"
+  - title: "Resume (EN)"
     url: /files/lerner_CV_EN.pdf
 
   # TODO: fully bilingual website

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I'm a postdoc researcher at Sorbonne Université, CNRS, ISIR. I got my PhD in Multimodal Information Retrieval at Paris-Saclay University (LISN/CNRS lab). 
-I'm currently working on Machine Translation with [François Yvon](https://fyvo.github.io/).
+I'm currently working on Multilingual Large Language Models and Machine Translation with [François Yvon](https://fyvo.github.io/).
 My PhD advisors were [Olivier Ferret](http://oferret.free.fr/) (CEA List) 
 and [Camille Guinaudeau](https://sites.google.com/view/camille-guinaudeau/accueil) (LISN). 
 Before my PhD, I already worked with Camille but also with [Hervé Bredin](https://herve.niderb.fr/fastpages/),
@@ -24,10 +24,17 @@ and one at Télécom Paris with [Laurence Likforman-Sulem](https://perso.telecom
 on Parkinson's Disease detection based on handwriting. 
 See [my resume](/files/lerner_CV_EN.pdf) for further details.
 
-I'm interested in Multimodal and Multilingual Natural Language Processing (and Information Retrieval), 
-with a focus on resources and evaluation.
+I'm broadly interested in Natural Language Processing, with a focus on resources and evaluation.
 
-If you're interested in my research, you can find a [list of my publications here](/publications).
+If you're interested in my research, you can find a [list of my publications here](/publications), and [of my talks there](/talks).
+I advised several master students, [learn about them here](/advising).
 
-I'm also currently Teacher at Aivancity and Teacher Assistant at ENSAE (IP Paris).
-During my PhD, I was Teacher Assistant at Paris-Saclay University and Polytech Paris-Saclay. More about [my teaching activities here](/teaching).
+In 2025, I was awarded the DAAD AINeT fellowship that funded a week of travel to visit German labs.
+
+I like to open source my research code and datasets, find a [list of available resources here](/resources).
+
+I'm also currently Teacher at Aivancity and Teacher Assistant at Sorbonne Université.
+During my PhD, I was Teacher Assistant at Paris-Saclay University and Polytech Paris-Saclay. 
+During two years of my postdoc, I was Teacher Assistant at ENSAE (IP Paris).
+I was also lab monitor at LxMLS 2025.
+More about [my teaching activities here](/teaching).

@@ -6,7 +6,7 @@ venue: "ENSAE (IP Paris)"
 date: 2023-10-01
 ---
 
-I'm TA at ENSAE in the classes [Deep Learning : Models and Optimization](https://kscaman.github.io/teaching/2023_ENSAE_DL.html)
-of [Kevin Scaman](https://kscaman.github.io/) 
+I was TA at ENSAE in the classes [Deep Learning : Models and Optimization](https://kscaman.github.io/teaching/2023_ENSAE_DL.html)
+of [Kevin Scaman](https://kscaman.github.io/) (in 2023-2024, followed by [Olivier Koch](https://olivierkoch.net/) in 2024-2025)
 and [Machine Learning for Natural Language Processing](https://github.com/Deep-NLP-Course)
 of Christopher Kermorvant. 

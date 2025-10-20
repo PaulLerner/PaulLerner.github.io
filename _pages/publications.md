@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- R. Bawden, M. Bénard, E. Villemonte de La Clergerie, J. Cornejo Cárcamo, N. Dahan, M. Delorme, M. Huguin, N. Kübler, **P. Lerner**, A. Mestivier, J. Minder, J.-F. Nominé, Z. Peng, L. Romary, P. Tsolakis, L. Zhu et F. Yvon, "[MaTOS: Machine Translation for Open Science](https://hal.science/hal-05228687)"  
+  **MT Summit 2025**
+  
+- **P. Lerner**, L. Cave, H. Daumé, L. Labat, G. Lejeune, P.-A. Lequeu, B. Piwowarski, N. Shafiabadi et F. Yvon, "[Comment mesurer les biais politiques des grands modèles de langue multilingues?](https://aclanthology.org/2025.jeptalnrecital-ealm.1/)  
+  **EALM@TALN2025**
 
 - **P. Lerner** and F. Yvon. "[Towards the Machine Translation of Scientific Neologisms](https://aclanthology.org/2025.coling-main.63)"  
   **COLING 2025**

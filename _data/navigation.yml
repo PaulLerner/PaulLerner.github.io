@@ -1,10 +1,16 @@
 # main links links
 main:
+  - title: "Advising"
+    url: /advising/   
+
+  - title: "Talks"
+    url: /talks/    
+
   - title: "Publications"
     url: /publications/
 
- # - title: "Talks"
-  #  url: /talks/    
+  - title: "Resources"
+    url: /resources/  
 
   - title: "Teaching"
     url: /teaching/    

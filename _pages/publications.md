@@ -4,6 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+- **P. Lerner** and F. Yvon, “[Assessing the Political Fairness of Multilingual LLMs: A Case Study based on a 21-way Multiparallel EuroParl Dataset](https://doi.org/10.63317/3wwi6bzcsd86)”  
+  **LREC 2026**
+
+- T. Gerald, S. Ghannay, J. Lascar, **P. Lerner**, and A. Vilnat, “[Can Multimodal LLMs Generate Pedagogical Questions?](https://doi.org/10.63317/4z4gj3h8jmc7)”  
+  **LREC 2026**
+
+- Z. Peng, L. Zhu, R. Bawden, M. Bénard, É. de la Clergerie, M. Huguin, N. Kübler, **P. Lerner**, A. Mestivier, and F. Yvon, “[Parallel Corpora of Scholarly Documents for English-French Machine Translation](https://hal.science/hal-05608444v1/)”  
+  **BUCC @ LREC 2026**
+
 - R. Bawden, M. Bénard, E. Villemonte de La Clergerie, J. Cornejo Cárcamo, N. Dahan, M. Delorme, M. Huguin, N. Kübler, **P. Lerner**, A. Mestivier, J. Minder, J.-F. Nominé, Z. Peng, L. Romary, P. Tsolakis, L. Zhu et F. Yvon, "[MaTOS: Machine Translation for Open Science](https://hal.science/hal-05228687)"  
   **MT Summit 2025**
   

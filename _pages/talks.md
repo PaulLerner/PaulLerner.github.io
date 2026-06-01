@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+- [Evaluating AI Democratic Biases in LLM: Looking at Politically Unfair Translation](https://events.teams.microsoft.com/event/507486d1-897b-445f-9c33-161af08c25f7@93527bf6-801e-4865-92ce-d4667ecbde2a), in Hertie School Centre for Digital Governance Seminars, Online, 2025.
 - On Assessing the Morphological and Multilingual Competence of LLMs, in DAAD Postdoc-NeT-AI seminars, Munich, Heilbronn, and Göttingen, 2025.
 - [Morphological Competence of LLMs: Applied to Translation of Scientific Neologisms](https://changelinglab.github.io/), in
 ChangeLing (CMU) seminars, online, 2025.

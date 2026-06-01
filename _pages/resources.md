@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 - [🤔 ppllm](https://github.com/PaulLerner/ppllm), A Python Library to Compute LLM's Perplexity and Surprisal
+- [21-EuroParl](https://github.com/PaulLerner/21-EuroParl), Dataset and Method to Assess the Political Fairness of Multilingual LLMs
 - [neott](https://github.com/PaulLerner/neott), Translate Neologisms with LLMs
 - [inclure](https://github.com/PaulLerner/inclure), Automatic translation from Standard to Inclusive French, and vice-versa 
 - [ViQuAE](https://paullerner.github.io/ViQuAE/), a Dataset and Methods for Knowledge-based Visual Question Answering about Named Entities

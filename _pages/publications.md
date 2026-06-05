@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **P. Lerner** and F. Yvon, "[Large Language Models are Perplexed by some Political Parties](https://arxiv.org/abs/2606.05937)"  
+  **arXiv:2606.05937**
+
 - **P. Lerner** and F. Yvon, “[Assessing the Political Fairness of Multilingual LLMs: A Case Study based on a 21-way Multiparallel EuroParl Dataset](https://doi.org/10.63317/3wwi6bzcsd86)”  
   **LREC 2026**
 
